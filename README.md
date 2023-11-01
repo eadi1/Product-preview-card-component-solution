@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 #### Desctop 
-![](./screenshots/screenshot.png)
+![](./screenshots/Screenshot-desktop.png)
 #### Mobile 
-![](./screenshots/m-screenshot.png)
+![](./screenshots/Screenshot-mobile.png)
 
 ### Links
 
